@@ -1,5 +1,5 @@
 
-# **MINIO TRANSLATION APP**:
+# **MINI TRANSLATION APP**:
 This is a sentence translator app made  with the help of API using JavaScript.
 
 # **Technologies used:**
